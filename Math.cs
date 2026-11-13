@@ -2,6 +2,8 @@ namespace TeamCityProject;
 
 public class Math
 {
+    int version = 1;
+
     public Math()
     {
         
